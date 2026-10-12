@@ -1,0 +1,18 @@
+﻿# IDE
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Dataset e checkpoint: conservati localmente
+drs_dataset/
+checkpoints/
+
+# Notebook e log
+.ipynb_checkpoints/
+*.log
